@@ -1,0 +1,14 @@
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\bin\Debug\net8.0\Project.exe
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\bin\Debug\net8.0\Project.deps.json
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\bin\Debug\net8.0\Project.dll
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\bin\Debug\net8.0\Project.pdb
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.dll
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\refint\Project.dll
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.pdb
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+C:\Users\Utente\OneDrive\Desktop\csharp\Project\obj\Debug\net8.0\ref\Project.dll
